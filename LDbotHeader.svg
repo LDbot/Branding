@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1000 1000"
+   height="1000"
+   width="1000"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="LDbotHeader.svg"
+   inkscape:export-filename="C:\Users\Zak\Source\graphics\ludumdare\bot\LDbot.png"
+   inkscape:export-xdpi="36"
+   inkscape:export-ydpi="36">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview4145"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.77498904"
+     inkscape:cx="475.70384"
+     inkscape:cy="550.4073"
+     inkscape:window-x="1352"
+     inkscape:window-y="308"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="ldlogo">
+    <sodipodi:guide
+       position="-14.193749,504.52326"
+       orientation="0,1"
+       id="guide4702" />
+    <sodipodi:guide
+       position="100.64658,500.65224"
+       orientation="1,0"
+       id="guide4704" />
+    <sodipodi:guide
+       position="900.6579,220.64828"
+       orientation="1,0"
+       id="guide4706" />
+    <sodipodi:guide
+       position="34.839202,576.78235"
+       orientation="0,1"
+       id="guide4708" />
+  </sodipodi:namedview>
+  <title
+     id="title4182">ludumdare</title>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ludumdare</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <g
+     transform="scale(0.8,0.8)"
+     id="ldlogo">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1"
+       id="bg"
+       width="1250"
+       height="1250"
+       x="0"
+       y="0" />
+    <path
+       style="fill:#e05030;fill-opacity:1;fill-rule:evenodd"
+       d="m 206.45263,622.96703 c -2.5227,0 -5.04594,-2.03062 -5.04594,-6.08988 l 0,-43.79765 -30.26814,0.13735 0,47.47525 c 0,22.4466 16.90604,33.72371 33.81377,33.72371 l 26.0417,0 0,-31.44878 z m 66.76411,-1.49376 c 0,8.11902 -10.0915,8.11902 -10.0915,0 l 0,-32.13285 -28.76741,0 0,33.29126 c 0,44.89169 67.62624,44.89169 67.62624,0 l 0,-33.2903 -28.7666,0 0,32.13189 z m 72.0727,-48.25642 0,14.07817 -6.22954,0.197 c -18.87649,0.1693 -34.02129,15.52579 -34.02129,34.44407 0,19.02436 15.31088,34.45221 34.33403,34.45221 19.02426,0 34.45201,-15.42785 34.45201,-34.45221 l 0,-48.71858 -28.5343,0 z m -6.22954,42.82147 6.22954,0 0,5.89777 c 0,3.24871 -2.55199,5.91811 -5.91579,5.91811 -3.24865,0 -5.79924,-2.6694 -5.79924,-5.91811 0,-3.14138 2.38988,-5.73298 5.48696,-5.89777 z m 76.88844,5.43495 c 0,8.11902 -10.09135,8.11902 -10.09135,0 l 0,-32.13285 -28.76796,0 0,33.29126 c 0,44.89169 67.62757,44.89169 67.62757,0 l 0,-33.2903 -28.76826,0 0,32.13189 z m 97.24517,0 c 0,-7.19191 9.04801,-7.07665 9.04801,-0.11649 l 0,33.0601 28.53506,0 0,-34.22069 c 0,-23.77925 -17.16754,-32.94271 -33.40739,-32.82853 -6.38006,0.11738 -13.45584,2.43663 -17.97986,7.3093 -5.22038,-5.22006 -11.83191,-7.3093 -18.32791,-7.3093 -16.12355,0 -33.05897,8.4689 -33.05897,32.82853 l 0,34.21962 28.53555,0 0,-33.05903 c 0,-6.96016 8.93163,-7.07542 8.93163,0.11649 l 0,32.94254 27.72388,0 0,-32.94254 z"
+       id="ludum"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#e08020;fill-opacity:1;fill-rule:evenodd"
+       d="m 565.17947,652.93223 34.35876,0 c 52.43003,0 52.43003,-81.19794 0,-81.19794 l -34.35876,0 z m 30.04377,-31.4356 0,-18.67485 4.89436,0 c 10.32395,0 10.44032,18.67485 0,18.67485 z"
+       id="d"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#e08020;fill-opacity:1;fill-rule:evenodd"
+       d="m 673.94074,585.885 c -13.03974,-0.18485 -25.658,8.07549 -30.7357,20.08099 -5.30676,11.83056 -2.87568,26.61174 6.01466,36.06806 6.66158,7.41077 16.72471,11.3902 26.64087,10.88752 l 3.76464,0 0,0.0142 27.83864,0 c -0.0453,-11.894 0.0868,-23.7901 -0.0705,-35.68047 -0.67064,-13.27582 -10.10829,-25.49567 -22.73008,-29.6082 a 33.452447,33.452447 0 0 0 -10.72443,-1.75751 z m -0.13487,27.74868 c 2.44844,0.0193 4.92129,1.53806 5.56273,4.07816 0.37374,2.46354 0.28131,4.97249 0.244,7.47609 -2.25907,0.0168 -4.51833,0.019 -6.76919,-0.0856 -4.4022,-0.63977 -6.31966,-6.75381 -3.02107,-9.76784 1.0519,-1.17948 2.51208,-1.71195 3.98255,-1.70126 z m 67.81533,-25.77603 c -18.21036,0 -30.96999,11.94739 -30.96999,30.16012 l 0,34.91446 28.53457,0 0,-31.92247 c 0,-3.56817 2.24484,-5.89295 5.89289,-5.89295 l 6.86688,0 0,-27.25916 z m 46.52391,-1.97265 c -13.04034,-0.18485 -25.65757,8.07423 -30.73461,20.08099 -5.34454,11.90628 -2.8386,26.79652 6.17605,36.25063 6.69601,7.35163 16.75411,11.24386 26.64413,10.71427 l 31.43721,0 -24.84017,-27.75135 24.86175,0 0,-5.74666 c 0,-11.3342 -6.01305,-22.57294 -15.79282,-28.4878 -5.28701,-3.31601 -11.51456,-5.0703 -17.75154,-5.06008 z m 0,27.72462 c 4.24699,-0.17357 7.34849,5.04819 5.03119,8.66913 -2.01955,4.03253 -8.40352,3.58379 -10.22663,-0.37473 -1.74448,-3.57142 1.08668,-8.40948 5.19544,-8.29546 z"
+       id="are"
+       inkscape:connector-curvature="0" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:38.71987534px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="681.74329"
+     y="521.46704"
+     id="text4147"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4149"
+       x="681.74329"
+       y="521.46704"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.11990356px;font-family:Bungee;-inkscape-font-specification:Bungee;fill:#ffffff;fill-opacity:1">Bot</tspan></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4155"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion4157"><rect
+         id="rect4159"
+         width="48.357666"
+         height="43.795616"
+         x="-45.620438"
+         y="494.52554" /></flowRegion><flowPara
+       id="flowPara4161" /></flowRoot></svg>
